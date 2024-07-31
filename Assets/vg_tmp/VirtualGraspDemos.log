@@ -1,0 +1,59 @@
+Initialized VirtualGrasp SDK 0.10.1 (core 0.7.1).[VirtualGrasp] Register rig and mesh for Rhand.001 with 49 bones.
+Initializing avatar #1 as instance of template #0[VG] [2024-07-31 11:16:11.767] [Scene] [info] Registered avatar mesh with 49 bones, 8334 vertices and 14992 triangles.
+[VirtualGrasp] Register 32 skinned meshes for avatar Rhand.001, ID:  1[VG] [2024-07-31 11:16:11.941] [HandMetaData] [info] Saved debug avatar file Assets/vg_tmp/humanoid_hand_1269503502.bin
+[VirtualGrasp] Initializing sensors: EXTERNAL_CONTROLLER/NO_CONTROLLERLoading graspdb C:/Users/gaiya/OneDrive/Documents/GitHub/VirtualGraspSDKDemos/Assets/StreamingAssets\VG_Grasps\grasps.dbThe mesh for Stool (Stool) is not readable. Object cannot be processed.The mesh for Stool (Stool) is not readable. Object cannot be processed.[VG] [2024-07-31 11:16:12.096] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/radio_1632860167.obj.
+[VG] [2024-07-31 11:16:12.103] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/knob2_4083822253.obj.
+[VG] [2024-07-31 11:16:12.108] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/knob1_4083822253.obj.
+[VG] [2024-07-31 11:16:12.114] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/antenna_2527133158.obj.
+The mesh for Stool (Stool) is not readable. Object cannot be processed.The mesh for Stool (Stool) is not readable. Object cannot be processed.The mesh for Stool (Stool) is not readable. Object cannot be processed.[VG] [2024-07-31 11:16:12.125] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cylinder_677297386.obj.
+[VG] [2024-07-31 11:16:12.156] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/firstaid_2606189051.obj.
+[VG] [2024-07-31 11:16:12.165] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cup_4064619603.obj.
+[VG] [2024-07-31 11:16:12.200] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cannedfood_3487517182.obj.
+[VG] [2024-07-31 11:16:12.207] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cylinder_677297386.obj.
+[VG] [2024-07-31 11:16:12.239] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cannedfood_3487517182.obj.
+[VG] [2024-07-31 11:16:12.248] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cylinder_677297386.obj.
+[VG] [2024-07-31 11:16:12.256] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cylinder_3861050288.obj.
+[VG] [2024-07-31 11:16:12.289] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/tape_2109703936.obj.
+[VG] [2024-07-31 11:16:12.296] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cylinder_4194283348.obj.
+[VG] [2024-07-31 11:16:12.305] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cylinder_677297386.obj.
+[VG] [2024-07-31 11:16:12.339] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cannedfood_3487517182.obj.
+[VG] [2024-07-31 11:16:12.378] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cannedfood_3487517182.obj.
+[VG] [2024-07-31 11:16:12.418] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/battery_1632010339.obj.
+[VG] [2024-07-31 11:16:12.425] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cylinder_677297386.obj.
+[VG] [2024-07-31 11:16:12.463] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cannedfood_3487517182.obj.
+[VG] [2024-07-31 11:16:12.470] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cylinder_1889076218.obj.
+[VG] [2024-07-31 11:16:12.528] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/waterbottle_3901159506.obj.
+[VG] [2024-07-31 11:16:12.560] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cannedfood_3487517182.obj.
+[VG] [2024-07-31 11:16:12.599] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cannedfood_3487517182.obj.
+[VG] [2024-07-31 11:16:12.609] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cylinder_3861050288.obj.
+[VG] [2024-07-31 11:16:12.675] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/flashlight_2257427956.obj.
+[VG] [2024-07-31 11:16:12.711] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/battery_1632010339.obj.
+[VG] [2024-07-31 11:16:12.747] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cannedfood_3487517182.obj.
+[VG] [2024-07-31 11:16:12.755] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cylinder_677297386.obj.
+[VG] [2024-07-31 11:16:12.786] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/pills_1232395120.obj.
+[VG] [2024-07-31 11:16:12.822] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/battery_1632010339.obj.
+[VG] [2024-07-31 11:16:12.854] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/battery_1632010339.obj.
+[VG] [2024-07-31 11:16:12.861] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cylinder_1889076218.obj.
+[VG] [2024-07-31 11:16:12.898] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cannedfood_3487517182.obj.
+[VG] [2024-07-31 11:16:12.938] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cannedfood_3487517182.obj.
+[VG] [2024-07-31 11:16:12.975] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cannedfood_3487517182.obj.
+[VG] [2024-07-31 11:16:13.037] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/flashlight_2257427956.obj.
+[VG] [2024-07-31 11:16:13.071] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/pills_1232395120.obj.
+[VG] [2024-07-31 11:16:13.077] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cap_528421302.obj.
+[VG] [2024-07-31 11:16:13.111] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cannedfood_3487517182.obj.
+[VG] [2024-07-31 11:16:13.228] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/walkie_968160876.obj.
+[VG] [2024-07-31 11:16:13.236] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cylinder_677297386.obj.
+[VG] [2024-07-31 11:16:13.266] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cannedfood_3487517182.obj.
+[VG] [2024-07-31 11:16:13.274] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/cylinder_4194283348.obj.
+[VG] [2024-07-31 11:16:13.293] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/platewithbananas_3303054841.obj.
+[VG] [2024-07-31 11:16:13.332] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/oxygen_2647579521.obj.
+[VG] [2024-07-31 11:16:13.348] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/medicine_668758900.obj.
+[VG] [2024-07-31 11:16:13.372] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/hammer_2880690903.obj.
+[VG] [2024-07-31 11:16:13.382] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/banana_515414872.obj.
+[VG] [2024-07-31 11:16:13.393] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/banana_752933147.obj.
+[VG] [2024-07-31 11:16:13.415] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/banana_752933147.obj.
+[VG] [2024-07-31 11:16:13.423] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/banana_752933147.obj.
+[VG] [2024-07-31 11:16:13.451] [VirtualGrasp-selection] [info] Saved debug mesh file: assets/vg_tmp/multitool_3310009594.obj.
+[VG] [2024-07-31 11:16:23.664] [GraspSelector] [info] Save grasp database C:/Users/gaiya/OneDrive/Documents/GitHub/VirtualGraspSDKDemos/Assets/StreamingAssets\VG_Grasps\grasps.db.
+[VG] [2024-07-31 11:16:23.765] [SelectableScene] [info] Successfully saved scene setup to Assets/vg_tmp/VirtualGraspDemos.scn!
+[VG] [2024-07-31 11:16:23.776] [SelectableScene] [info] Successfully saved object rig to Assets/vg_tmp/VirtualGraspDemos.scn.objrig!
